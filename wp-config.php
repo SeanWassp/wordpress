@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'forge' );
 
 /** Database username */
-define( 'DB_USER', 'testsite' );
+define( 'DB_USER', 'forge' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'testsite@2022' );
+define( 'DB_PASSWORD', '2gsH2shV2L8Pt7Gg9NnQ' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
